@@ -1,6 +1,6 @@
 # Olá, meu nome é Adilson Fernandes! (⌐■_■)
 
-Sou programador back-end, com conhecimentos no front-end, e estudante do curso técnico em informática.
+Sou programador back-end, com conhecimentos em front-end, e estudante do curso técnico em informática.
 
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=adilsonfernandesdev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sapo_de_cartola/)
